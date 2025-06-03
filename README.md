@@ -1,11 +1,11 @@
-Privacy Policy for Number Agility, Remember The Number, Sequence
+Privacy Policy for Number Agility, Remember The Number, Sequence, Mark The Last and Compare Equation
 
 Effective Date: May 30, 2025
 
-Thank you for using Number Agility, Sequence and Remember The Number (“the App”), developed by Ivan Gastilovic. Your privacy is important to us. This Privacy Policy explains how information is handled when you use our mobile application available on the Google Play Store.
+Thank you for using Number Agility, Sequence, Remember The Number, Mark The Last and Compare Equation (“the App”), developed by Ivan Gastilovic. Your privacy is important to us. This Privacy Policy explains how information is handled when you use our mobile application available on the Google Play Store.
 
 1. Data Collection
-We do not collect any personal data from users of the Number Agility, Sequence and Remember The Number apps. The application does not request, store, or transmit any personally identifiable information (PII), location data, contact lists, photos, or any other personal data.
+We do not collect any personal data from users of the Number Agility, Sequence, Remember The Number, Mark The Last and Compare Equation apps. The application does not request, store, or transmit any personally identifiable information (PII), location data, contact lists, photos, or any other personal data.
 
 2. Third-Party Advertising
 While we do not collect or store any user data ourselves, the application includes third-party advertising provided by services such as Google AdMob or other advertising platforms.
@@ -21,7 +21,7 @@ Usage data (e.g., number of sessions, screen views)
 This data is handled in accordance with the privacy policies of the respective third-party services. We do not have access to or control over this information.
 
 3. Children’s Privacy
-Number Agility is not directed at children under the age of 13. We do not knowingly collect any personal data from children. If we discover that such data has been inadvertently collected, we will take immediate steps to delete it.
+The App is not directed at children under the age of 13. We do not knowingly collect any personal data from children. If we discover that such data has been inadvertently collected, we will take immediate steps to delete it.
 
 4. Data Security
 As we do not collect or store any user data, there is no risk of data breaches or unauthorized access concerning your personal information from our side.
@@ -37,4 +37,4 @@ Born: June 9, 1993
 Location: Lithuania
 Email: ivan.gastilovic@hotmail.com
 
-By using Number Agility, you acknowledge and agree to the terms of this Privacy Policy.
+By using the App, you acknowledge and agree to the terms of this Privacy Policy.
