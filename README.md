@@ -1,11 +1,11 @@
-Privacy Policy for Number Agility, Remember The Number, Sequence, Mark The Last and Compare Equation
+Privacy Policy for Sharp Eyes, Number Agility, Remember The Number, Sequence, Mark The Last, Correctly, Just Remember, Simple Counting, Rising Colors, Letter Number, Mental Counting and Compare Equation
 
 Effective Date: May 30, 2025
 
-Thank you for using Number Agility, Sequence, Remember The Number, Mark The Last and Compare Equation (“the App”), developed by Ivan Gastilovic. Your privacy is important to us. This Privacy Policy explains how information is handled when you use our mobile application available on the Google Play Store.
+Thank you for using Sharp Eyes, Number Agility, Sequence, Remember The Number, Mark The Last, Correctly, Just Remember, Simple Counting, Rising Colors, Letter Number, Mental Counting and Compare Equation (“the App”), developed by Ivan Gastilovic. Your privacy is important to us. This Privacy Policy explains how information is handled when you use our mobile application available on the Google Play Store.
 
 1. Data Collection
-We do not collect any personal data from users of the Number Agility, Sequence, Remember The Number, Mark The Last and Compare Equation apps. The application does not request, store, or transmit any personally identifiable information (PII), location data, contact lists, photos, or any other personal data.
+We do not collect any personal data from users of the Sharp Eyes, Number Agility, Sequence, Remember The Number, Mark The Last, Correctly, Just Remember, Simple Counting, Rising Colors, Letter Number, Mental Counting and Compare Equation apps. The application does not request, store, or transmit any personally identifiable information (PII), location data, contact lists, photos, or any other personal data.
 
 2. Third-Party Advertising
 While we do not collect or store any user data ourselves, the application includes third-party advertising provided by services such as Google AdMob or other advertising platforms.
