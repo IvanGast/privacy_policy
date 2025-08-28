@@ -33,7 +33,6 @@ We may update this Privacy Policy occasionally. Any changes will be reflected wi
 If you have any questions or concerns about this Privacy Policy, you may contact the developer at:
 
 Ivan Gastilovic
-Born: June 9, 1993
 Location: Lithuania
 Email: ivan.gastilovic@hotmail.com
 
